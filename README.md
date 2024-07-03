@@ -9,8 +9,8 @@ I'm a passionate web developer with experience in a wide range of technologies a
 
 ## 📫 Get in Touch
 
-- [LinkedIn](#) 
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/jhonsen-matthew-nicandro-29b597265) 
+- [Facebook](https://www.facebook.com/Nicstreme)
 - [Personal Website](https://209nics.tech/)
 
 ## 📈 GitHub Stats
