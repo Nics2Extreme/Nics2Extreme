@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Jhonsen Nicandro 👋
 
-<!--
-**Nics2Extreme/Nics2Extreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with experience in a wide range of technologies and libraries. I enjoy creating dynamic, responsive web applications and always strive to keep up with the latest trends and best practices in web development.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Libraries & Frameworks**: React, Vue, Laravel, Filament, Tailwind, Bootstrap
+- **Databases**: MySQL (phpMyAdmin), NoSQL (MongoDB)
+
+## 📫 Get in Touch
+
+- [LinkedIn](#) 
+- [Twitter](#)
+- [Personal Website](#)
+
+## 📈 GitHub Stats
+
+![Jhonsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nics2Extreme&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nics2Extreme&layout=compact&theme=radical)
+
+## 🏅 Badges
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Nics2Extreme.visitor-badge)
+
+<!-- ## 🌟 Featured Repositories
+
+- [Repo 1](#)
+- [Repo 2](#)
+- [Repo 3](#) -->
