@@ -1,4 +1,4 @@
-# Hi there, I'm Jhonsen Nicandro 👋
+# The name's Nics, mon ami. Remember it. 👋
 
 I'm a passionate web developer with experience in a wide range of technologies and libraries. I enjoy creating dynamic, responsive web applications and always strive to keep up with the latest trends and best practices in web development.
 
@@ -20,9 +20,3 @@ I'm a passionate web developer with experience in a wide range of technologies a
 <!-- ## 🏅 Badges
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Nics2Extreme.visitor-badge) -->
-
-<!-- ## 🌟 Featured Repositories
-
-- [Repo 1](#)
-- [Repo 2](#)
-- [Repo 3](#) -->
