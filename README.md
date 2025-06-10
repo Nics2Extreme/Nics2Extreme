@@ -1,6 +1,9 @@
 # The name's Nics, mon ami. Remember it. 👋
 
-I'm a passionate web developer with experience in a wide range of technologies and libraries. I enjoy creating dynamic, responsive web applications and always strive to keep up with the latest trends and best practices in web development.
+HAI 1.2
+CAN HAS STDIO?
+VISIBLE "HAI WORLD!"
+KTHXBYE
 
 # 🚀 Technologies & Tools
 
@@ -10,7 +13,6 @@ I'm a passionate web developer with experience in a wide range of technologies a
 
 - [LinkedIn](https://www.linkedin.com/in/jhonsen-matthew-nicandro-29b597265) 
 - [Facebook](https://www.facebook.com/Nicstreme)
-- [Personal Website](https://209nics.tech/)
 
 # 📈 GitHub Stats
 
