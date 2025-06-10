@@ -1,9 +1,9 @@
 # The name's Nics, mon ami. Remember it. 👋
 
-HAI 1.2
-CAN HAS STDIO?
-VISIBLE "HAI WORLD!"
-KTHXBYE
+HAI 1.2<br>
+CAN HAS STDIO?<br>
+VISIBLE "HAI WORLD!"<br>
+KTHXBYE<br>
 
 # 🚀 Technologies & Tools
 
